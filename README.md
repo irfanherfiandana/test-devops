@@ -2,7 +2,7 @@
 
 ### Task 1:
 - Write an application/script that accepts a list of public Github repositories and prints out the name, clone URL, date of latest commit and name of latest author for each one (choose any repository you like)
-* deploy it in docker base application. please keep in mind that kubernetes design should be aware of traffic spike of user access
+* deploy it in docker base application.
 * **send the link and repository to us**
 
 ### Task 2:
