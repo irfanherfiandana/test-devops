@@ -11,7 +11,7 @@
 * **send the link and repository to us**
 
 ### Task 3:
-* if you were asked by your current CTO to re-design your company architecture, how would you to design it ?
+* if you were asked by your current CTO to re-design your company architecture, how would you design it ?
 * please use drawing tools such as draw.io
 * **send image to us along with the explanation you'd propose the design that way**
 
